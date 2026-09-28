@@ -1,0 +1,61 @@
+id,record_type,title,severity,department,date_opened,due_date,date_closed,status
+DEV-2026-001,Deviation,Particulate observed in WFI loop sample point,Minor,QC,2026-01-17,2026-02-16,,Open
+DEV-2026-002,Deviation,Temperature excursion in cold room CR-2,Minor,QC,2026-02-18,2026-03-20,2026-02-24,Closed
+CAPA-2026-003,CAPA,Deploy electronic logbooks with revision control,Major,QC,2026-01-18,2026-02-17,2026-03-08,Closed
+DEV-2026-004,Deviation,Temperature excursion in cold room CR-2,Minor,Warehouse,2026-05-27,2026-06-26,,Open
+DEV-2026-005,Deviation,Environmental monitoring action limit exceeded in Grade B,Minor,Manufacturing,2026-05-27,2026-06-26,2026-07-18,Closed
+DEV-2026-006,Deviation,Freezer FZ-3 alarm not acknowledged within 1 hour,Minor,Manufacturing,2026-07-07,2026-08-06,,Open
+DEV-2026-007,Deviation,Calibration overdue on analytical balance AB-07,Minor,Validation,2026-03-09,2026-04-08,,Open
+CAPA-2026-008,CAPA,Revise line-clearance SOP and retrain all operators,Minor,Warehouse,2026-07-09,2026-08-08,2026-08-27,Closed
+CAPA-2026-009,CAPA,Replace WFI sample valves and re-qualify loop,Minor,Engineering,2026-06-02,2026-07-02,,Open
+CAPA-2026-010,CAPA,Replace WFI sample valves and re-qualify loop,Minor,Warehouse,2026-07-10,2026-08-09,2026-08-05,Closed
+DEV-2026-011,Deviation,Documentation error: wrong form revision used for cleaning log,Minor,QC,2026-02-10,2026-03-12,2026-02-24,Closed
+DEV-2026-012,Deviation,Bioburden result above alert limit for purified water,Critical,QC,2026-05-23,2026-06-22,,Open
+DEV-2026-013,Deviation,Environmental monitoring action limit exceeded in Grade B,Major,QA,2026-02-02,2026-03-04,2026-02-08,Closed
+CAPA-2026-014,CAPA,Create calibration due-date dashboard for QC,Major,QC,2026-06-15,2026-07-15,2026-07-20,Closed
+CAPA-2026-015,CAPA,Deploy electronic logbooks with revision control,Minor,Warehouse,2026-05-11,2026-06-10,,Open
+DEV-2026-016,Deviation,Documentation error: wrong form revision used for cleaning log,Major,Manufacturing,2026-07-28,2026-08-27,2026-08-09,Closed
+DEV-2026-017,Deviation,Bioburden result above alert limit for purified water,Major,Validation,2026-03-02,2026-04-01,2026-03-16,Closed
+CAPA-2026-018,CAPA,Deploy electronic logbooks with revision control,Minor,Validation,2026-07-19,2026-08-18,2026-08-21,Closed
+DEV-2026-019,Deviation,Missing second-person verification on batch record BR-1042,Critical,QA,2026-01-10,2026-02-09,,Open
+DEV-2026-020,Deviation,pH out of specification during buffer prep,Major,Manufacturing,2026-06-28,2026-07-28,2026-07-29,Closed
+DEV-2026-021,Deviation,pH out of specification during buffer prep,Critical,Manufacturing,2026-05-19,2026-06-18,,Open
+DEV-2026-022,Deviation,Documentation error: wrong form revision used for cleaning log,Critical,QC,2026-06-06,2026-07-06,,Open
+CAPA-2026-023,CAPA,Deploy electronic logbooks with revision control,Minor,Validation,2026-03-28,2026-04-27,2026-05-20,Closed
+CAPA-2026-024,CAPA,Add barcode verification to labeling step,Minor,Manufacturing,2026-01-14,2026-02-13,2026-02-10,Closed
+CAPA-2026-025,CAPA,Revise line-clearance SOP and retrain all operators,Critical,QC,2026-02-14,2026-03-16,2026-03-21,Closed
+CAPA-2026-026,CAPA,Implement automated pH trending with weekly review,Minor,Validation,2026-09-05,2026-10-05,,Open
+DEV-2026-027,Deviation,Documentation error: wrong form revision used for cleaning log,Minor,Warehouse,2026-08-09,2026-09-08,,Open
+CAPA-2026-028,CAPA,Qualify alternate media vendor and update specification,Minor,QC,2026-07-15,2026-08-14,2026-08-21,Closed
+CAPA-2026-029,CAPA,Replace WFI sample valves and re-qualify loop,Critical,QC,2026-06-27,2026-07-27,2026-08-05,Closed
+CAPA-2026-030,CAPA,Increase EM sampling frequency during campaign runs,Minor,Validation,2026-02-04,2026-03-06,2026-02-10,Closed
+CAPA-2026-031,CAPA,Tighten alarm response procedure and add shift handover check,Critical,Engineering,2026-09-10,2026-10-10,2026-09-22,Closed
+CAPA-2026-032,CAPA,Replace WFI sample valves and re-qualify loop,Minor,Manufacturing,2026-09-04,2026-10-04,,Open
+DEV-2026-033,Deviation,Training record incomplete for new manufacturing operator,Minor,Warehouse,2026-07-05,2026-08-04,2026-08-07,Closed
+DEV-2026-034,Deviation,Environmental monitoring action limit exceeded in Grade B,Minor,QC,2026-02-24,2026-03-26,2026-04-15,Closed
+CAPA-2026-035,CAPA,Add barcode verification to labeling step,Major,QC,2026-08-22,2026-09-21,2026-09-06,Closed
+DEV-2026-036,Deviation,Documentation error: wrong form revision used for cleaning log,Minor,Manufacturing,2026-02-12,2026-03-14,2026-04-12,Closed
+DEV-2026-037,Deviation,Particulate observed in WFI loop sample point,Minor,Engineering,2026-01-12,2026-02-11,,Open
+DEV-2026-038,Deviation,Temperature excursion in cold room CR-2,Minor,Engineering,2026-04-24,2026-05-24,,Open
+CAPA-2026-039,CAPA,Qualify alternate media vendor and update specification,Minor,Engineering,2026-07-23,2026-08-22,2026-09-15,Closed
+DEV-2026-040,Deviation,Particulate observed in WFI loop sample point,Minor,Validation,2026-09-11,2026-10-11,2026-09-27,Closed
+DEV-2026-041,Deviation,Temperature excursion in cold room CR-2,Minor,Validation,2026-02-05,2026-03-07,,Open
+DEV-2026-042,Deviation,Missing second-person verification on batch record BR-1042,Minor,Manufacturing,2026-03-26,2026-04-25,2026-05-01,Closed
+DEV-2026-043,Deviation,Freezer FZ-3 alarm not acknowledged within 1 hour,Minor,Validation,2026-05-05,2026-06-04,2026-07-04,Closed
+DEV-2026-044,Deviation,Freezer FZ-3 alarm not acknowledged within 1 hour,Critical,QA,2026-02-15,2026-03-17,2026-03-28,Closed
+DEV-2026-045,Deviation,Environmental monitoring action limit exceeded in Grade B,Minor,QA,2026-04-19,2026-05-19,,Open
+DEV-2026-046,Deviation,Missing second-person verification on batch record BR-1042,Minor,Engineering,2026-06-07,2026-07-07,2026-07-29,Closed
+DEV-2026-047,Deviation,Documentation error: wrong form revision used for cleaning log,Minor,QC,2026-02-25,2026-03-27,2026-03-14,Closed
+DEV-2026-048,Deviation,Environmental monitoring action limit exceeded in Grade B,Minor,QC,2026-02-09,2026-03-11,,Open
+DEV-2026-049,Deviation,Bioburden result above alert limit for purified water,Critical,Manufacturing,2026-06-08,2026-07-08,2026-08-02,Closed
+DEV-2026-050,Deviation,Missing second-person verification on batch record BR-1042,Minor,QA,2026-06-07,2026-07-07,,Open
+CAPA-2026-051,CAPA,Implement automated pH trending with weekly review,Minor,QA,2026-02-28,2026-03-30,,Open
+DEV-2026-052,Deviation,Incorrect label applied to in-process bulk container,Critical,Engineering,2026-06-29,2026-07-29,2026-08-12,Closed
+CAPA-2026-053,CAPA,Add barcode verification to labeling step,Minor,Manufacturing,2026-01-31,2026-03-02,2026-03-03,Closed
+CAPA-2026-054,CAPA,Implement automated pH trending with weekly review,Major,Validation,2026-03-12,2026-04-11,2026-04-01,Closed
+DEV-2026-055,Deviation,Training record incomplete for new manufacturing operator,Minor,Validation,2026-01-09,2026-02-08,2026-03-10,Closed
+CAPA-2026-056,CAPA,Create calibration due-date dashboard for QC,Minor,Manufacturing,2026-07-13,2026-08-12,2026-07-26,Closed
+CAPA-2026-057,CAPA,Replace WFI sample valves and re-qualify loop,Minor,Warehouse,2026-01-25,2026-02-24,,Open
+CAPA-2026-058,CAPA,Implement automated pH trending with weekly review,Minor,QC,2026-08-01,2026-08-31,,Open
+DEV-2026-059,Deviation,Temperature excursion in cold room CR-2,Minor,Warehouse,2026-04-05,2026-05-05,,Open
+DEV-2026-060,Deviation,Training record incomplete for new manufacturing operator,Minor,QA,2026-08-03,2026-09-02,,Open

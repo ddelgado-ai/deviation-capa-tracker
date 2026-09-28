@@ -1,0 +1,25 @@
+id,record_type,title,severity,department,date_opened,due_date,age_days,aging_bucket
+DEV-2026-019,Deviation,Missing second-person verification on batch record BR-1042,Critical,QA,2026-01-10,2026-02-09,261,90+ days
+DEV-2026-037,Deviation,Particulate observed in WFI loop sample point,Minor,Engineering,2026-01-12,2026-02-11,259,90+ days
+DEV-2026-001,Deviation,Particulate observed in WFI loop sample point,Minor,QC,2026-01-17,2026-02-16,254,90+ days
+CAPA-2026-057,CAPA,Replace WFI sample valves and re-qualify loop,Minor,Warehouse,2026-01-25,2026-02-24,246,90+ days
+DEV-2026-041,Deviation,Temperature excursion in cold room CR-2,Minor,Validation,2026-02-05,2026-03-07,235,90+ days
+DEV-2026-048,Deviation,Environmental monitoring action limit exceeded in Grade B,Minor,QC,2026-02-09,2026-03-11,231,90+ days
+CAPA-2026-051,CAPA,Implement automated pH trending with weekly review,Minor,QA,2026-02-28,2026-03-30,212,90+ days
+DEV-2026-007,Deviation,Calibration overdue on analytical balance AB-07,Minor,Validation,2026-03-09,2026-04-08,203,90+ days
+DEV-2026-059,Deviation,Temperature excursion in cold room CR-2,Minor,Warehouse,2026-04-05,2026-05-05,176,90+ days
+DEV-2026-045,Deviation,Environmental monitoring action limit exceeded in Grade B,Minor,QA,2026-04-19,2026-05-19,162,90+ days
+DEV-2026-038,Deviation,Temperature excursion in cold room CR-2,Minor,Engineering,2026-04-24,2026-05-24,157,90+ days
+CAPA-2026-015,CAPA,Deploy electronic logbooks with revision control,Minor,Warehouse,2026-05-11,2026-06-10,140,90+ days
+DEV-2026-021,Deviation,pH out of specification during buffer prep,Critical,Manufacturing,2026-05-19,2026-06-18,132,90+ days
+DEV-2026-012,Deviation,Bioburden result above alert limit for purified water,Critical,QC,2026-05-23,2026-06-22,128,90+ days
+DEV-2026-004,Deviation,Temperature excursion in cold room CR-2,Minor,Warehouse,2026-05-27,2026-06-26,124,90+ days
+CAPA-2026-009,CAPA,Replace WFI sample valves and re-qualify loop,Minor,Engineering,2026-06-02,2026-07-02,118,90+ days
+DEV-2026-022,Deviation,Documentation error: wrong form revision used for cleaning log,Critical,QC,2026-06-06,2026-07-06,114,90+ days
+DEV-2026-050,Deviation,Missing second-person verification on batch record BR-1042,Minor,QA,2026-06-07,2026-07-07,113,90+ days
+DEV-2026-006,Deviation,Freezer FZ-3 alarm not acknowledged within 1 hour,Minor,Manufacturing,2026-07-07,2026-08-06,83,61-90 days
+CAPA-2026-058,CAPA,Implement automated pH trending with weekly review,Minor,QC,2026-08-01,2026-08-31,58,31-60 days
+DEV-2026-060,Deviation,Training record incomplete for new manufacturing operator,Minor,QA,2026-08-03,2026-09-02,56,31-60 days
+DEV-2026-027,Deviation,Documentation error: wrong form revision used for cleaning log,Minor,Warehouse,2026-08-09,2026-09-08,50,31-60 days
+CAPA-2026-032,CAPA,Replace WFI sample valves and re-qualify loop,Minor,Manufacturing,2026-09-04,2026-10-04,24,0-30 days
+CAPA-2026-026,CAPA,Implement automated pH trending with weekly review,Minor,Validation,2026-09-05,2026-10-05,23,0-30 days

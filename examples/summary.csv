@@ -1,0 +1,13 @@
+metric,value
+as_of,2026-09-28
+total,60
+open,24
+closed,36
+overdue,22
+avg_closure_days,33.1
+median_closure_days,34.0
+avg_open_age_days,148.3
+aging_0-30 days,2
+aging_31-60 days,3
+aging_61-90 days,1
+aging_90+ days,18
